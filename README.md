@@ -1,6 +1,9 @@
 "# R-PROJECTS" 
-Predictive Modeling of Aquatic Toxicity using Machine Learning
-Project Overview
+**Predictive Modeling of Aquatic Toxicity using Machine Learning**
+
+
+
+
 This project implements a comprehensive machine learning framework to predict the acute aquatic toxicity of chemical compounds to Daphnia magna, a standard model organism in ecotoxicology. Using a Quantitative Structure-Activity Relationship (QSAR) dataset, we explore the links between molecular structure and toxicity (measured as LC50 values).
 
 The primary goal is to build and evaluate a range of supervised and unsupervised models to not only predict toxicity accurately but also to identify the key molecular descriptors that drive these toxic effects. This work aims to support environmental risk assessment and guide the design of safer chemicals, reducing the reliance on animal testing.
